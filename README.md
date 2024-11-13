@@ -1,4 +1,4 @@
-# Omnifood
+# Omnifood - [Click here to open](https://omnifood-bali.netlify.app)
 
 ## Project Overview
 This website was created as part of a project while learning HTML and CSS. **Omnifood** is a fictional healthy meal service designed to demonstrate a concept for a meal subscription service that offers healthy, customized meals delivered to users daily at reasonable prices. **Note: This is a project website and does not represent a real service.**
